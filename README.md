@@ -2,6 +2,7 @@
 
 Welcome to **Bash Shell mini utilities**! 🚀  
 This project is a collection of scripts that allows users to add small functionalities into your applications seamlessly. Imagine of downloading free youtube videos or compressing PDFs. Ofcourse you can download it using many youtube downloader tools online. But what if you require it inside your software you building, you need to have it on your server. So its for that purpose. Just download this repo and use it for your own projects. 
+
 ---
 
 ## **🚀 Getting Started**
@@ -20,7 +21,7 @@ cd bash_shell_utility
 
 ```bash
 ./youtube_playlist_downloader.sh <PLAYLIST_URL>
-
+```
 
 ---
 
