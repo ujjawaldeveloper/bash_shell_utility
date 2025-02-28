@@ -1,7 +1,7 @@
 # **Bash Shell Utilities**
 
 Welcome to **Bash Shell mini utilities**! 🚀  
-This project is a collection of scripts that allows users to add small functionalities into your applications seamlessly. Imagine of downloading free youtube videos or compressing PDFs. Ofcourse you can download it using many youtube downloader tools online. But what if you require it inside your software you building, you need to have it on your server. So its for that purpose. Just download this repo and use it for your own projects. 
+Hi, this is Ujjawal. If you are here for any issue then scroll to bottom and talk to me. Continued......This project is a collection of scripts that allows users to add small functionalities into your applications seamlessly. Imagine of downloading free youtube videos or compressing PDFs. Ofcourse you can download it using many youtube downloader tools online. But what if you require it inside your software you building, you need to have it on your server. So its for that purpose. Just download this repo and use it for your own projects. 
 
 ---
 
@@ -27,9 +27,9 @@ cd bash_shell_utility
 
 ### **8. Thank You for Visiting!** 🎉
 
-I appreciate your interest in **UjjawalDeveloper**! Feel free to explore, use, and contribute. If you find this project useful, please ⭐ the repository!
+I appreciate your interest in my github **UjjawalDeveloper**! Feel free to explore, use, and contribute. If you find this project useful, please ⭐ the repository! 
 
-For any inquiries, feel free to reach out.
+For any inquiries, feel free to reach out. I would be happy to assist you.
 
 ---
 
