@@ -1,7 +1,7 @@
 # **Bash Shell Utilities**
 
 Welcome to **Bash Shell mini utilities**! 🚀  
-Hi, this is Ujjawal. If you are here for any issue then scroll to bottom and talk to me. Continued......This project is a collection of scripts that allows users to add small functionalities into your applications seamlessly. Imagine of downloading free youtube videos or compressing PDFs. Ofcourse you can download it using many youtube downloader tools online. But what if you require it inside your software you building, you need to have it on your server. So its for that purpose. Just download this repo and use it for your own projects. 
+Hi, this is Ujjawal. If you are here for any issue then scroll to bottom and talk to me. Continued......This project is a collection of scripts that allows users to add small functionalities into your applications seamlessly. Imagine of downloading free youtube videos or renaming files in bulk. Ofcourse you can download it using many youtube downloader tools online. But what if you require it inside your software you building, you need to have it on your server. So its for that purpose. Just download this repo and use it for your own projects. 
 
 ---
 
@@ -21,6 +21,16 @@ cd bash_shell_utility
 
 ```bash
 ./youtube_playlist_downloader.sh <PLAYLIST_URL>
+```
+
+- **Bulk File Renamer**: A simple Bash script to rename files in bulk without any external tools. This utility lets you replace parts of filenames with a new string, and it even includes a dry-run mode to preview the changes before making them permanent. You can use its multiple modes this way : 
+
+```bash
+./bulk_file_renamer.sh <MODE> <OLD_STRING> <NEW_STRING> <DIRECTORY_PATH:only if your files are not in present wokring directory>
+```
+
+```bash
+./bulk_file_renamer.sh "old" "new" /path/to/directory
 ```
 
 ---
